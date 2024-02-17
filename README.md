@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I like to build things in the physical and digital world.
 <!--
 **ndnguru/ndnguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
